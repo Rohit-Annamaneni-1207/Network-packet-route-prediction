@@ -1,0 +1,38 @@
+{
+    "google": {
+                "url": "www.google.com", 
+                "sessions_run": 3, 
+                "expected_sessions": 150
+            }, 
+
+    "youtube": {
+                "url": "www.youtube.com", 
+                "sessions_run": 0, 
+                "expected_sessions": 150
+            },
+
+    "twitter": {
+                "url": "www.twitter.com", 
+                "sessions_run": 0, 
+                "expected_sessions": 150
+            }, 
+
+    "amazon": {
+                "url": "www.amazon.com", 
+                "sessions_run": 0, 
+                "expected_sessions": 150
+            }, 
+
+    "instagram": {
+                "url": "www.instagram.com", 
+                "sessions_run": 0, 
+                "expected_sessions": 150
+            }, 
+
+    "wikipedia": {
+                "url": "www.wikipedia.com", 
+                "sessions_run": 0, 
+                "expected_sessions": 150
+            }
+            
+}
